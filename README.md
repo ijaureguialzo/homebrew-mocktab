@@ -1,18 +1,4 @@
-# homebrew-mocktab
+# Homebrew Tap for MockTab
 
-```
- ________________________________________
-/ Entreprenuer, n.:                      \
-|                                        |
-| A high-rolling risk taker who would    |
-| rather                                 |
-|                                        |
-| be a spectacular failure than a dismal |
-\ success.                               /
- ----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+This repository contains the Homebrew Cask for [MockTab](https://mocktab.org/), a Mac driver for Wacom drawing tablets
+that no longer have official support.
